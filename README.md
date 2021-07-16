@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabriciompc&label=Profile%20views&color=0e75b6&style=flat" alt="fabriciompc" /> </p>
 
-I’m currently working in @brasildefato as IT Coordinator
+🔭 I’m currently working in @brasildefato as IT Coordinator
 
 
 📫 How to reach me **fabricio.sog@gmail.com**
