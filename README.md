@@ -76,4 +76,4 @@
 <div>
 
 <br />
-![Snake animation]((https://raw.githubusercontent.com/fabriciompc/fabriciompc/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/fabriciompc/fabriciompc/output/github-contribution-grid-snake.svg)
