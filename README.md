@@ -14,6 +14,7 @@
 <br />
 
 # Follow me
+
 <div style="display: inline-block; padding: 10px 0px; margin-bottom: 20px">
 <a href="https://linkedin.com/in/fabriciompc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabriciompc" height="30" width="40" style="margin-right: 20px" /></a>
 <a href="https://pt.stackoverflow.com/users/124685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="124685" height="30" width="40" style="margin-right: 20px" /></a>
@@ -58,7 +59,6 @@
 " alt="microsoft" width="40" height="40" style="margin-right: 20px"/> </a>
 </div>
 
-
 ## Databases
 
 <div style="display: inline-block; padding: 20px 0px">
@@ -76,4 +76,7 @@
 <div>
 
 <br />
-![Snake animation](https://github.com/fabriciompc/fabriciompc/blob/output/github-contribution-grid-snake.gif)
+
+<div style="display: inline-block; padding: 20px 0px">
+<img src="https://raw.githubusercontent.com/fabriciompc/fabriciompc/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
