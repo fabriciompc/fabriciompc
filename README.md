@@ -55,7 +55,7 @@
 <div style="display: inline-block; padding: 20px 0px">
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 20px"/> </a>
 <a href="https://www.microsoft.com/pt-br" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg
-" alt="linux" width="40" height="40" style="margin-right: 20px"/> </a>
+" alt="microsoft" width="40" height="40" style="margin-right: 20px"/> </a>
 </div>
 
 
@@ -76,4 +76,4 @@
 <div>
 
 <br />
-![Snake animation](https://raw.githubusercontent.com/fabriciompc/fabriciompc/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fabriciompc/fabriciompc/blob/output/github-contribution-grid-snake.gif)
